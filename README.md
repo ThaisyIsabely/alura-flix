@@ -34,7 +34,7 @@
                 <img src="https://i.ytimg.com/vi/g_7n5rYn9PQ/maxresdefault.jpg" alt="">
             </a>
             <a href="https://https://www.youtube.com/watch?v=SCs3O33Wqe8=1s">
-                <img src="https://thumbor.novaescola.org.br/ivbZcFAoce3wU6M0jrffMHbapY0=/nova-escola-producao.s3.amazonaws.com/4Y2TKcsAtcMjxqCredrsxVqpnUwcgFdDug9Dg5aBgrGhBFYWv3R86wJjewCk/aula-de-matematica-numeros-na-lousa-getty-images.jpg" alt="">
+                <img src="https:"https://uploads.jovemnerd.com.br/wp-content/uploads/2023/04/barbie_dreamhouse_adventures_onde_assistir_os_filmes_da_barbie_no_streaming_nerdbunker__6lvxutm1-760x391.jpg alt="">
             </a>
             
         </div>
